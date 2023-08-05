@@ -1,4 +1,5 @@
-### Hi there, I'm Stephen👋
+Hi 👋 My name is Stephen Gichuki 
+================================
 A Data Scientist / Data Analyst 
 
 <!--

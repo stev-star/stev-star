@@ -20,8 +20,6 @@ I am a software engineering student at Alx Africa, currently learning several pr
 
 <a href="http://www.github.com/stev-star"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stev-star&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/stev-star"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=stev-star&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" /></a>
-
 <a href="https://github.com/stev-star" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stev-star&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>

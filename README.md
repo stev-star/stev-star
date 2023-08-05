@@ -1,6 +1,12 @@
 Hi 👋 My name is Stephen Muruchi
 ================================
+
 A Data Scientist / Data Analyst / Software Engineering Student
+--------------------------------------------------------------
+
+I am a software engineering student at Alx Africa, currently learning several programming languages including C, Python, SQL, JavaScript, HTML, and CSS. As a student, I am focused on building a solid foundation in these programming languages and developing my skills in software development. My studies involve learning to write code, designing and implementing algorithms, and creating applications and software systems. Ultimately, I aim to become a skilled and proficient software engineer and machine learning engineer who can develop innovative solutions to complex problems.
+
+* 🌍  I'm based in Naivasha, Kenya
 
 <!--
 **stev-star/stev-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

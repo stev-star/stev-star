@@ -1,5 +1,6 @@
-### Hi there, I'm Stephen👋
-A Data Scientist / Data Analyst 
+Hi 👋 My name is Stephen Muruchi
+================================
+A Data Scientist / Data Analyst / Software Engineering Student
 
 <!--
 **stev-star/stev-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
